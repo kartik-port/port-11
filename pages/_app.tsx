@@ -1,5 +1,5 @@
 import "@/styles/globals.css";
-import { Footer, Navbar } from "@/components";
+import { Footer, Navbar, SmoothScroll } from "@/components";
 import { AnimatePresence } from "framer-motion";
 
 export default function App({
@@ -13,6 +13,7 @@ export default function App({
 }) {
 	return (
 		<>
+			<SmoothScroll />
 			<Navbar />
 			<AnimatePresence mode="wait">
 				<Component
