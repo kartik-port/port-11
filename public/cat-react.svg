@@ -1,0 +1,66 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cute chibi character head -->
+  <circle cx="50" cy="45" r="28" fill="#FFF5F5" stroke="#FFB6C1" stroke-width="2"/>
+  
+  <!-- White hair left side -->
+  <path d="M 30 35 Q 25 30 22 35 Q 20 40 25 42 Q 28 38 30 35 Z" fill="#FFFFFF" stroke="#E6E6FA" stroke-width="1"/>
+  <path d="M 28 40 Q 23 38 20 42 Q 18 47 23 48 Q 26 44 28 40 Z" fill="#FFFFFF" stroke="#E6E6FA" stroke-width="1"/>
+  
+  <!-- White hair right side -->
+  <path d="M 70 35 Q 75 30 78 35 Q 80 40 75 42 Q 72 38 70 35 Z" fill="#FFFFFF" stroke="#E6E6FA" stroke-width="1"/>
+  <path d="M 72 40 Q 77 38 80 42 Q 82 47 77 48 Q 74 44 72 40 Z" fill="#FFFFFF" stroke="#E6E6FA" stroke-width="1"/>
+  
+  <!-- White hair top -->
+  <ellipse cx="50" cy="20" rx="22" ry="15" fill="#FFFFFF" stroke="#E6E6FA" stroke-width="1.5"/>
+  <path d="M 35 25 Q 40 18 45 22 Q 50 15 55 22 Q 60 18 65 25" fill="#FFFFFF" stroke="#E6E6FA" stroke-width="1"/>
+  
+  <!-- Hair strands -->
+  <path d="M 45 18 Q 47 12 49 18" stroke="#E6E6FA" stroke-width="1.5" fill="none"/>
+  <path d="M 51 18 Q 53 12 55 18" stroke="#E6E6FA" stroke-width="1.5" fill="none"/>
+  
+  <!-- Big blue anime eyes -->
+  <ellipse cx="40" cy="42" rx="6" ry="8" fill="#4A90E2"/>
+  <ellipse cx="60" cy="42" rx="6" ry="8" fill="#4A90E2"/>
+  
+  <!-- Eye highlights (sparkle) -->
+  <circle cx="38" cy="40" r="2" fill="#FFFFFF"/>
+  <circle cx="41" cy="44" r="1" fill="#FFFFFF"/>
+  <circle cx="58" cy="40" r="2" fill="#FFFFFF"/>
+  <circle cx="61" cy="44" r="1" fill="#FFFFFF"/>
+  
+  <!-- Eye shine -->
+  <ellipse cx="40" cy="39" rx="2" ry="3" fill="#87CEEB" opacity="0.6"/>
+  <ellipse cx="60" cy="39" rx="2" ry="3" fill="#87CEEB" opacity="0.6"/>
+  
+  <!-- Eyebrows -->
+  <path d="M 34 35 Q 40 33 44 35" stroke="#D4A5A5" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M 56 35 Q 60 33 66 35" stroke="#D4A5A5" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Small cute nose -->
+  <circle cx="50" cy="50" r="1.5" fill="#FFB6C1"/>
+  
+  <!-- Cute smile -->
+  <path d="M 44 54 Q 50 58 56 54" stroke="#FFB6C1" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Blush marks -->
+  <ellipse cx="32" cy="50" rx="4" ry="2.5" fill="#FFB6C1" opacity="0.4"/>
+  <ellipse cx="68" cy="50" rx="4" ry="2.5" fill="#FFB6C1" opacity="0.4"/>
+  
+  <!-- Body/neck -->
+  <rect x="42" y="68" width="16" height="8" rx="3" fill="#FFF5F5" stroke="#FFB6C1" stroke-width="1.5"/>
+  
+  <!-- Collar/shirt -->
+  <path d="M 38 76 L 42 76 L 42 82 L 38 85 Z" fill="#E6F3FF" stroke="#4A90E2" stroke-width="1"/>
+  <path d="M 62 76 L 58 76 L 58 82 L 62 85 Z" fill="#E6F3FF" stroke="#4A90E2" stroke-width="1"/>
+  <rect x="42" y="76" width="16" height="12" fill="#E6F3FF" stroke="#4A90E2" stroke-width="1"/>
+  
+  <!-- Cute bow or accessory -->
+  <path d="M 45 22 Q 50 20 55 22 L 53 25 L 50 24 L 47 25 Z" fill="#FFB6C1" stroke="#FF69B4" stroke-width="1"/>
+  <circle cx="50" cy="24" r="2" fill="#FF69B4"/>
+  
+  <!-- Small sparkles around character -->
+  <path d="M 15 30 L 16 32 L 18 31 L 16.5 33 L 18 35 L 16 34 L 15 36 L 14 34 L 12 35 L 13.5 33 L 12 31 L 14 32 Z" fill="#FFD700" opacity="0.6"/>
+  <path d="M 85 40 L 86 42 L 88 41 L 86.5 43 L 88 45 L 86 44 L 85 46 L 84 44 L 82 45 L 83.5 43 L 82 41 L 84 42 Z" fill="#FFD700" opacity="0.6"/>
+  <circle cx="20" cy="60" r="1.5" fill="#FFD700" opacity="0.5"/>
+  <circle cx="80" cy="25" r="1.5" fill="#FFD700" opacity="0.5"/>
+</svg>
